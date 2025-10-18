@@ -43,7 +43,7 @@ This app shows how text can be streamed and appended dynamically inside Flutter,
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/flutter-stream-vs-static-demo.git
+git clone https://github.com/pramek008/flutter-stream-vs-static-demo.git
 cd flutter-stream-vs-static-demo
 ```
 
