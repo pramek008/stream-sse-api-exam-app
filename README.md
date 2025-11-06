@@ -24,7 +24,7 @@ This app shows how text can be streamed and appended dynamically inside Flutter,
 - **Flutter** (3.5+)
 - **Dio** for HTTP and stream handling
 - **Material 3 UI**
-- Example backend: [https://sse-static-api-example-production.up.railway.app](https://sse-static-api-example-production.up.railway.app)
+- Example backend: [https://sse-example-api.ekanovation.my.id](https://sse-example-api.ekanovation.my.id)
 
 ---
 
@@ -43,8 +43,8 @@ This app shows how text can be streamed and appended dynamically inside Flutter,
 Clone the repo:
 
 ```bash
-git clone https://github.com/pramek008/flutter-stream-vs-static-demo.git
-cd flutter-stream-vs-static-demo
+git clone https://github.com/pramek008/stream-sse-api-exam-app.git
+cd stream-sse-api-exam-app
 ```
 
 Install dependencies:
@@ -66,7 +66,7 @@ flutter run
 This demo uses a hosted example backend at:
 
 ```
-https://sse-static-api-example-production.up.railway.app
+https://sse-example-api.ekanovation.my.id
 ```
 
 Available endpoints:

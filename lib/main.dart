@@ -31,8 +31,7 @@ class StreamDemoPage extends StatefulWidget {
 
 class _StreamDemoPageState extends State<StreamDemoPage> {
   // Base URL for our API endpoints
-  final String baseUrl =
-      'https://sse-static-api-example-production.up.railway.app';
+  final String baseUrl = 'https://sse-example-api.ekanovation.my.id';
 
   // Dio instance configured for streaming
   final Dio dio = Dio();
